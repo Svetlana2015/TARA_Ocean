@@ -1,0 +1,743 @@
+DATASET_SIMPLEBAR
+SEPARATOR TAB
+DATASET_LABEL	Abundance
+COLOR	#cc0099
+DATA
+uncultured marine bacterium - 56765	559
+uncultured bacterium - 77133	2100
+uncultured marine eukaryote - 203449	222
+Candidatus Pelagibacter sp. RS39 - 1977864	3
+metagenome - 256318	226
+uncultured Chloroflexota bacterium - 166587	96
+uncultured marine group II/III euryarchaeote KM3_133_A04 - 1457863	6
+uncultured bacterium AD12-A11 - 526644	2
+Diplonema papillatum - 91374	2
+uncultured deep-sea bacterium - 759664	27
+uncultured Deferribacteres bacterium - 213663	3
+Alphaproteobacteria bacterium RIFCSPHIGHO2_01_FULL_41_14 - 1797217	1
+microbial mat metagenome - 527640	1
+uncultured organism - 155900	69
+Salinicoccus halodurans - 407035	2
+uncultured eukaryote - 100272	418
+uncultured Gammaproteobacteria bacterium - 86473	54
+Pseudoalteromonas byunsanensis - 327939	1
+uncultured marine microorganism - 415540	50
+uncultured kinetoplastid - 204529	2
+uncultured archaeon - 115547	206
+Acidihalobacter prosperus - 160660	13
+uncultured Acidobacteriota bacterium - 171953	23
+uncultured Tistrella sp. - 499814	1
+uncultured Actinomycetes bacterium - 152507	5
+Zunongwangia profunda SM-A87 - 655815	9
+uncultured Marinobacter sp. - 187379	4
+uncultured Actinomycetales bacterium - 239730	1
+Microbacterium saperdae - 69368	2
+uncultured euryarchaeote - 114243	2
+hydrothermal vent metagenome - 652676	46
+marine metagenome - 408172	357
+Gimesia maris DSM 8797 - 344747	3
+Salinicoccus roseus - 45670	1
+uncultured soil bacterium - 164851	3
+uncultured Alteromonas sp. - 179113	1
+uncultured Planctomycetota bacterium - 120965	37
+uncultured Bacteroidaceae bacterium - 163362	1
+uncultured Verrucomicrobiales bacterium - 100234	6
+uncultured compost bacterium - 155098	1
+Halomonas sp. 1513 - 1883416	1
+uncultured bacterium AD243-C9 - 526650	5
+Homo sapiens - 9606	2
+Saccharomyces cerevisiae - 4932	3
+uncultured Lentisphaerota bacterium - 278095	4
+Sagitta sp. DP-2006 - 1549806	1
+uncultured Gemmatimonadota bacterium - 203437	2
+Acidobacteria bacterium Mor1 - 1660251	4
+Methylobacterium sp. Leaf361 - 1736352	1
+uncultured bacterium SAT52-B4 - 526693	5
+Croceicoccus naphthovorans - 1348774	1
+Vannella sp. LITHOV - 1215650	1
+Rodentibacter sp. Ppn85 - 1908525	1
+uncultured bacterium AD12-C5 - 526645	1
+uncultured marine cyanobacterium - 215611	14
+Pleurotus ostreatus PC15 - 1137138	2
+Caulobacter mirabilis - 69666	1
+uncultured Aestuariibacter sp. - 932002	2
+Fidelibacterota bacterium SCGC AAA003-E22 - 699266	13
+uncultured marine alveolate - 329652	4
+uncultured Ostreococcus - 257762	2
+Idiomarina piscisalsi - 1096243	2
+Salmo salar - 8030	1
+uncultured Pseudomonadota bacterium - 153809	4
+Pochonia chlamydosporia - 280754	1
+Sphingobium sp. AP50 - 1884369	2
+Paracalanus parvus - 187406	2
+unidentified marine bacterioplankton - 13136	24
+Sphingobium sp. Ant17 - 1461752	1
+uncultured delta proteobacterium - 34034	32
+Brevibacterium sp. - 1701	1
+uncultured Halomonas sp. - 173971	26
+uncultured Saprospiraceae bacterium - 261514	1
+uncultured SAR202 cluster bacterium - 648178	7
+uncultured Polycystinea - 182957	3
+Acanthamoeba sp. PN15 - 161758	1
+Diplonemida sp. 21 RG-2016 - 1889229	1
+Thalassiosira rotula - 49265	5
+Seculamonas ecuadoriensis - 221724	1
+uncultured Alphaproteobacteria bacterium - 91750	56
+uncultured Nitrososphaerota archaeon - 651141	23
+Bacteroidota bacterium - 1898104	4
+uncultured deep-sea archaeon - 314107	6
+uncultured marine group I thaumarchaeote - 360837	10
+uncultured Rhizaria - 554078	9
+Stainforthia fusiformis - 313618	1
+Kocuria rhizophila - 72000	3
+Chlamydomonas sp. UWO 241 - 1653778	3
+uncultured Flavobacteriaceae bacterium - 165436	4
+Collozoum amoeboides - 1041365	2
+uncultured Bicosoecida - 282483	1
+uncultured marine crenarchaeote AD1000-325-A12 - 526639	5
+marine bacterium AO1-C - 1905359	1
+Acinetobacter sp. HS-A32 - 344907	1
+uncultured marine diplonemid - 547051	10
+uncultured bacterium SBR1108 - 142194	1
+Candidatus Pelagibacter sp. IMCC9063 - 1002672	14
+uncultured stramenopile - 152704	32
+uncultured marine crenarchaeote - 115413	2
+uncultured marine group II euryarchaeote DeepAnt-15E7 - 512008	2
+uncultured Chloroflexus sp. - 214040	5
+uncultured dinoflagellate - 187300	32
+Sphingobium lactosutens DS20 - 1331060	3
+uncultured gamma proteobacterium HF0770_40P16 - 723580	4
+Staphylococcus aureus M0077 - 1158509	1
+Pelagibacteraceae bacterium ETNP-OMZ-SAG-A7 - 1891201	9
+Chlamydia trachomatis - 813	1
+Pantachogon haeckeli - 168769	2
+uncultured Cafeteria - 341161	2
+Klebsiella pneumoniae - 573	1
+uncultured marine crenarchaeote KM3-153-F8 - 526665	8
+Euzebyella marina - 1761453	8
+Alteromonas mediterranea UM7 - 1300258	6
+uncultured Candidatus Poseidoniales archaeon - 274854	10
+Candidatus Kinetoplastidibacterium blastocrithidiae - 233181	14
+Taylorella equigenitalis - 29575	1
+uncultured prokaryote - 198431	2
+seawater metagenome - 1561972	16
+Leeuwenhoekiella marinoflava - 988	3
+uncultured bacterium AD347-E12 - 526657	2
+Flavobacteria bacterium TW-JL-80 - 337176	3
+Chromohalobacter israelensis - 158080	1
+Disolenia zanguebarica - 1652797	1
+Exiguobacterium sp. SED12 - 368195	1
+uncultured marine thaumarchaeote KM3_69_H10 - 1456245	3
+Collosphaeridae sp. TB-2015 - 1658295	3
+uncultured bacterium AD106-G5 - 526643	5
+Flavobacterium sp. TAB 87 - 1729581	1
+uncultured Methanosalsum sp. - 1936125	4
+uncultured Fidelibacterota bacterium - 195045	22
+uncultured metazoan - 175278	3
+uncultured bacterium AD106-G4 - 526642	2
+Immundisolibacter cernigliae - 1810504	1
+Epiplocylis undella - 1925336	1
+uncultured Alteromonadaceae bacterium - 191625	5
+Leeuwenhoekiella blandensis MED217 - 398720	7
+Spongiibacter tropicus DSM 19543 - 1123279	1
+Jaapia argillacea MUCL 33604 - 933084	1
+Pseudobodo tremulans - 167961	6
+Streptomyces sp. NRRL S-340 - 1463901	1
+Capniomyces stellatus - 4885	3
+Nitrospirae bacterium GWF2_44_13 - 1801702	1
+uncultured SAR86 cluster bacterium - 648174	6
+Musa itinerans - 574487	1
+Salinisphaera sp. LB1 - 2183911	4
+Leptolyngbya sp. Sai001 - 756661	2
+uncultured Vibrio sp. - 114054	1
+Saccharomyces cerevisiae RM11-1a - 285006	1
+Dechloromonas sp. HZ - 188737	5
+uncultured Syndiniales - 385043	19
+uncultured Phyllobacteriaceae bacterium - 257462	1
+uncultured Nitrosopumilales archaeon - 171534	5
+candidate division WOR-1 bacterium RIFOXYB2_FULL_36_35 - 1802578	2
+uncultured Erythrobacteraceae bacterium - 346640	4
+Opitutia bacterium SCGC AG-212-L18 - 1799660	1
+Caespitomonium hyalinulum - 1036796	1
+Halobacteriovorax sp. BALOs_7 - 2109558	1
+Pseudomonas filiscindens - 237435	1
+Microbacterium dextranolyticum - 36806	4
+uncultured bacterium KM3-47-B8 - 526679	1
+Eimeria maxima - 5804	1
+Planctomycetes bacterium SCGC AAA282-C19 - 1298906	3
+uncultured Sphingobium sp. - 316087	2
+Bacteroidetes bacterium GMDsbM5 - 214713	1
+uncultured Rhodospirillaceae bacterium - 352351	6
+uncultured bacterium KM3-205-D9 - 526673	4
+uncultured Nocardioidaceae bacterium - 253824	1
+uncultured bacterium HF0770_45N15 - 542530	4
+uncultured Bradyrhizobium sp. - 199684	1
+uncultured Bacteriovorax sp. - 346638	3
+Anaerococcus sp. HMSC068A02 - 1739286	1
+Microbacterium rhizosphaerae - 1678237	1
+uncultured Verrucomicrobiota bacterium - 156588	9
+Chloroflexi bacterium SCGC AB-629-P13 - 1131272	3
+uncultured spumellarian - 1604867	4
+uncultured Thermoanaerobacteraceae bacterium - 303759	1
+uncultured rumen bacterium - 136703	2
+uncultured SAR324 cluster bacterium - 179114	3
+Flavobacteriaceae bacterium CP2B - 1848192	1
+Neisseria zalophi - 640030	5
+Alteromonas sp. RKMC-009 - 2267264	6
+uncultured crenarchaeote ODPB-A9 - 95928	1
+Collozoum pelagicum - 103348	1
+Rubricoccus marinus - 716817	1
+Echeneibothrium maccallumi - 108288	1
+Acanthochiasma sp. JD-2012 - 1229391	1
+Azospirillum sp. 47_25 - 1896971	1
+Mucilaginibacter pedocola - 1792845	1
+Acidobacteria bacterium RBG_16_70_10 - 1797174	1
+uncultured marine crenarchaeote AD1000-23-H12 - 526638	5
+Bulimina marginata - 313259	1
+Acinetobacter sp. LoGeW2-3 - 1808001	3
+alpha proteobacterium SCGC AAA288-E13 - 939316	3
+Ponyalis laticornis - 1526464	3
+Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_64_23 - 1797499	3
+Sphingobium sp. C100 - 1207055	1
+Diplonemida sp. 1sb RG-2016 - 1889233	2
+uncultured marine archaeon - 56763	25
+Mycobacterium sp. IIPS5 - 340176	1
+Physalia physalis - 168775	2
+uncultured bacterium HF0770_27E13 - 542526	4
+bacterium L188S.95 - 585308	1
+Vibrio rumoiensis 1S-45 - 1188252	6
+Alphaproteobacteria bacterium RBG_16_42_14 - 1797214	2
+Pelagibacteraceae bacterium ETNP-OMZ-SAG-A8 - 1891200	2
+Phaeobacter sp. CECT 5382 - 1712645	1
+uncultured bacterium AD249-B8 - 526652	2
+Zoothamnium alternans - 393036	1
+Christiangramia flava JLT2011 - 1229726	2
+Rubrivirga profundi - 1658620	2
+Cucumis sativus - 3659	2
+uncultured Peridiniales - 765899	1
+Erythrobacter sp. GY-2 - 362522	2
+Legionella pneumophila subsp. pneumophila str. Thunder Bay - 1199191	1
+uncultured fungus - 175245	3
+uncultured bacterium AD66-C11 - 526661	3
+Marine group II euryarchaeote REDSEA-S19_B7N8 - 1811652	3
+Pterocorys zancleus - 278986	1
+uncultured Acidobacterium sp. - 114706	2
+Rhynchosporium secalis - 38038	6
+Sphingomonas taxi - 1549858	1
+Gossypium hirsutum - 3635	1
+Cibicidoides wuellerstorfi - 331041	1
+Buchnera aphidicola - 9	3
+Clintonia borealis - 34183	1
+Rhodococcus sp. B7740 - 1564114	1
+uncultured Christiangramia sp. - 503836	4
+Reophax sp. JP-2008 - 551665	1
+uncultured Oceanobacter sp. - 345910	1
+uncultured Paracoccus sp. - 189685	1
+Terrabacter sp. Root85 - 1736603	3
+Parerythrobacter jejuensis - 795812	3
+Rheinheimera sp. KL1 - 1635005	1
+Pacificitalea manganoxidans - 1411902	2
+Warnowia sp. BSL-2009a - 651450	1
+uncultured Bacteroidota bacterium - 152509	12
+uncultured Campylobacterota bacterium - 120858	1
+Arthrobacter sp. RIT-PI-e - 1681197	2
+Cibicides refulgens - 212459	1
+Microvelia americana - 1187971	1
+Acuticoccus yangtzensis - 1443441	1
+Xanthomonas translucens pv. undulosa - 487909	7
+Kocuria flava - 446860	3
+Hymenobacter sp. CRA2 - 1955620	2
+Aspidisca aculeata - 416573	1
+uncultured Flavobacterium sp. - 165435	1
+uncultured Acidobacteriaceae bacterium - 194844	4
+Humulus lupulus var. lupulus - 1571165	1
+Lawsonella clevelandensis - 1528099	2
+Microbacterium sp. ZJ6315 - 1612189	1
+uncultured Pelagibacterales bacterium - 309857	20
+uncultured marine picoplankton - 324688	4
+uncultured bacterium HF0500_40D21 - 542515	2
+Microbacterium sp. 1 - 386035	1
+Rhaphidozoum acuferum - 103357	3
+Gracilimonas amylolytica - 1749045	4
+alpha proteobacterium SCGC AB-629-F11 - 1131277	1
+Mycobacterium tuberculosis UT0002 - 1408905	1
+Piscinoodinium sp. RWL-2007 - 419288	3
+Diplonemida sp. 13 RG-2016 - 1889228	1
+Heteronemertea sp. 5DS - 2231655	1
+uncultured sediment bacterium - 676241	1
+uncultured Salegentibacter sp. - 259320	2
+Schlumbergerella floresiana - 577504	1
+Sphingobium indicum BiD32 - 1301087	1
+uncultured Gemmatimonadales bacterium HF0200_34B24 - 723613	2
+uncultured Planctomyces sp. - 179110	2
+Actinobacteria bacterium RBG_19FT_COMBO_70_19 - 1797208	1
+wastewater metagenome - 527639	2
+Novosphingobium sp. CF614 - 1884364	4
+uncultured Gluconobacter sp. - 563853	2
+Agrococcus sp. Tm9-1 - 861288	1
+Planctomycetes bacterium RIFCSPHIGHO2_02_FULL_50_42 - 1801975	3
+Psychrobacter sp. C 20.9 - 1926477	4
+uncultured marine Syndiniales - 573618	3
+uncultured Caldilineaceae bacterium - 543031	1
+Candidatus Pseudothioglobus singularis - 1427364	6
+Lithomelissa setosa - 1054399	1
+Moritella sp. PE36 - 58051	2
+Sagoscena sp. As5 - 1572421	1
+Pararotalia nipponica - 89381	2
+uncultured planctomycete 3FN - 455066	1
+Halomonas sp. N3-2A - 2014541	1
+Peridinium willei - 142113	1
+Pseudanabaena sp. Sai010 - 756670	2
+uncultured Idiomarina sp. - 352961	1
+uncultured bacterium HF0770_37D02 - 542528	3
+Rhynchomonas nasuta - 127150	3
+uncultured Tenacibaculum sp. - 174713	1
+Mycobacterium kyorinense - 487514	1
+uncultured marine virus - 186617	3
+Salinisphaera sp. SPP-43 - 1785089	1
+Xanthomonas phaseoli pv. dieffenbachiae - 92828	5
+Curtobacterium sp. Leaf261 - 1736311	1
+Bacillus sp. PK-9 - 529908	1
+uncultured Planctomycetales bacterium - 100371	5
+Spongiibacter sp. IMCC21906 - 1620392	2
+Ketogulonicigenium vulgare WSH-001 - 759362	2
+Sagitta bipunctata - 52901	1
+soda lake metagenome - 1627878	2
+Candidatus Saccharibacteria bacterium CG2_30_41_52 - 1805375	1
+Fulvimarina pelagi HTCC2506 - 314231	1
+Holospora caryophila - 1904031	1
+Brevibacterium linens - 1703	1
+Chondrostereum purpureum - 58369	1
+Akkermansia muciniphila - 239935	1
+uncultured Ichthyosporea - 573652	1
+Fusarium oxysporum f. sp. lycopersici 4287 - 426428	1
+Streptococcus sp. oral taxon 056 str. F0418 - 904294	1
+Piscirickettsia salmonis LF-89 _ ATCC VR-1361 - 1227812	1
+uncultured bacterium AD45-G12 - 526659	1
+SAR86 cluster bacterium BACL1 MAG-120507-bin14 - 1655567	5
+Candidatus Williamhamiltonella defendens - 138072	2
+Doliolum nationalis - 76841	1
+uncultured verrucomicrobium HF0500_27H16 - 723600	1
+Candidatus Tectomicrobia bacterium RIFCSPLOWO2_02_FULL_70_19 - 1802342	1
+Enterococcus gallinarum - 1353	1
+Candidatus Moanibacter tarae - 2200854	1
+Pinus taeda - 3352	1
+uncultured bacterium AD370-D1 - 526658	1
+uncultured marine group III euryarchaeote - 360836	3
+uncultured Verrucomicrobiaceae bacterium - 257470	2
+Plesiocystis pacifica SIR-1 - 391625	1
+Francisella endosymbiont of Hyalomma truncatum - 1080384	2
+uncultured bacterium KM4-9-H7 - 526687	2
+uncultured alveolate - 175274	8
+uncultured Microbacteriaceae bacterium - 239729	1
+Arthrobacter woluwensis - 156980	1
+Ipomoea nil - 35883	1
+Marine group II euryarchaeote REDSEA-S29_B8N9 - 1811654	15
+Synechococcus sp. REDSEA-S01_B1 - 1811575	8
+uncultured Synechococcus sp. - 154535	5
+Rhodobacteraceae bacterium REDSEA-S29_B10 - 1811623	1
+Candidatus Fluviicola riflensis - 1798018	2
+uncultured Methylophilaceae bacterium - 239732	1
+uncultured marine group II euryarchaeote HF70_59C08 - 347540	4
+Candidatus Melainabacteria bacterium MEL.A1 - 1899017	2
+Teleaulax amphioxeia - 77931	4
+uncultured Telonema - 415893	1
+Candidatus Proteinoplasmatales archaeon SG8-5 - 1803822	5
+Stramenopile sp. MESS21 - 759965	1
+Prasinoderma singulare - 676789	2
+Candidatus Thioglobus sp. REDSEA-S12_B1 - 1811594	8
+Pseudohongiella spirulinae - 1249552	1
+Verrucomicrobia bacterium SCGC AAA164-E04 - 1009415	3
+Cavosteliaceae sp. M71 - 1655010	1
+Acanthostaurus nordgaardi - 1069743	2
+uncultured Holosporaceae bacterium - 994850	2
+Pycnococcus provasolii - 41880	1
+Thioclava sp. SK-1 - 1889770	1
+uncultured alpha proteobacterium EBAC2C11 - 295349	3
+Pfiesteria-like sp. HR1SSeptA5 - 290075	1
+Rhodobacteraceae bacterium REDSEA-S34_B6 - 1811624	7
+Pertusaria subpertusa - 2282692	1
+alpha proteobacterium AAP38 - 1523418	1
+Bacteroidales bacterium 36-12 - 1895718	1
+uncultured Oscillatoria sp. - 239739	4
+Phaeocystis jahnii - 118080	2
+Candidatus Palibaumannia cicadellinicola - 186490	1
+Amyloodinium ocellatum - 79898	1
+Verrucomicrobia bacterium ADurb.Bin063 - 1852926	1
+uncultured bacterium 405006-B04 - 1343841	1
+Sphingobacterium paucimobilis HER1398 - 1346330	2
+uncultured crenarchaeote 4B7 - 44557	3
+SAR11 cluster bacterium PRT-SC02 - 1527298	2
+Durinskia baltica - 59809	1
+Euduboscquella sp. ex Favella arcuata - 1132520	1
+Lutimaribacter pacificus - 391948	1
+uncultured Flexibacteraceae bacterium - 239735	2
+uncultured marine picoeukaryote - 515363	2
+uncultured nuHF1 cluster bacterium HF0770_35I22 - 723586	2
+Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1 - 1295009	1
+Seonamhaeicola sp. S2-3 - 1936081	1
+Micromonas commoda - 296587	5
+uncultured Mamiellophyceae - 1659307	15
+Prorocentrum leve - 356485	2
+Phaeocystis pouchetii - 33659	3
+Candidatus Puniceispirillum marinum IMCC1322 - 488538	1
+Calothrix sp. Asko 3 - 994833	1
+Sarcinochrysis marina - 54407	1
+uncultured marine diatom - 285226	1
+uncultured marine Polycystinea - 329655	1
+uncultured microeukaryote - 340210	1
+uncultured Chlorophyta - 171245	11
+Condylostoma magnum - 40633	1
+uncultured bacterium HF0010_31F02 - 542480	1
+Thioalkalivibrio versutus - 106634	2
+uncultured Picocystis - 682718	2
+uncultured picobiliphyte - 419946	2
+Stichococcus bacillaris - 37433	1
+uncultured ciliate - 187299	3
+Mamiella gilva - 687948	1
+uncultured Lyngbya sp. - 332961	1
+Ectothiorhodospiraceae bacterium AqS1 - 1725326	1
+Candidatus Zinderia insecticola - 884215	1
+uncultured gamma proteobacterium EB080_L93H08 - 710973	1
+Candidatus Tremblaya phenacola PAVE - 1266371	1
+Argizala brasilensis - 1634099	1
+Pseudanabaena lonchoides NgrPSln22 - 1578117	2
+Heterosigma akashiwo - 2829	2
+SAR116 cluster bacterium REDSEA-S10_B10N8 - 1811626	3
+Ostreococcus tauri - 70448	4
+Verrucomicrobia bacterium SCGC AAA300-N18 - 939920	1
+uncultured rhodophyte - 162014	2
+uncultured Rhodobacter sp. - 204728	1
+Micractinium conductrix - 554055	2
+Branchiostoma belcheri - 7741	1
+Falsirhodobacter sp. alg1 - 1472418	3
+Caecitellus sp. RCC1078 - 464222	1
+Chroococcus sp. FPU101 - 1974212	2
+Leptolyngbya sp. CCAP 1442/1 - 1221563	1
+uncultured freshwater eukaryote - 315267	1
+Arachis duranensis - 130453	3
+Sticholonche sp. JB-2011 - 1055000	2
+Candidatus Legionella polyplacis - 2005262	1
+Pseudoroseobacter euryhalinus - 343405	3
+Neobodo designis - 312471	1
+Salipiger bermudensis HTCC2601 - 314265	1
+Geminocystis sp. PltCNmn3 - 1578066	1
+Nitrospirillum viridazoti CBAmc - 1441467	1
+uncultured Planctomycetaceae bacterium - 100233	1
+Sphingomonas sp. Leaf357 - 1736350	1
+Oscillatoriaceae cyanobacterium ThrGT9 - 1578121	1
+Orientia tsutsugamushi str. Ikeda - 334380	1
+Gnetum leyboldii - 29812	1
+Dapisostemon apicaliramis CCIBt 3536 - 1536716	1
+Candidatus Pelagibacter sp. RS40 - 1977865	3
+Stigmatodiscus pruni - 1940605	2
+alpha proteobacterium HIMB114 - 684719	1
+Loktanella sp. S4079 - 579483	1
+Sphingorhabdus sp. YGSMI21 - 2077182	2
+Ruegeria sp. ANG-S4 - 1577904	1
+Geminocystis sp. NIES-3708 - 1615909	1
+Nitrospirae bacterium CG2_30_70_394 - 1805279	1
+uncultured marine stramenopile - 329656	1
+Psychroserpens sp. MAC17 - 368193	1
+uncultured Thraustochytriaceae - 333831	1
+uncultured Zygnematales - 651629	1
+Deltaproteobacteria bacterium GWC2_55_46 - 1797818	2
+Closterium baillyanum - 1416941	1
+Candidatus Carsonella ruddii - 114186	1
+Vibrio aerogenes - 92172	1
+uncultured Methanomethylovorans sp. - 183759	1
+Salmonella enterica subsp. enterica serovar Paratyphi A - 54388	2
+Rebecca salina - 561169	1
+Leptolyngbya sp. CCM 4 - 1983256	1
+Chlorobium ferrooxidans - 84205	1
+Auxenochlorella pyrenoidosa - 3078	1
+Chlorella heliozoae - 554066	1
+uncultured Rickettsiales bacterium - 219660	1
+Nonlabens marinus S1-08 - 1454201	1
+Dichotomaria marginata - 268567	1
+uncultured Cryptophyta - 243282	1
+uncultured bacterium ARCTIC13_E_12 - 542402	1
+uncultured archaeon 'KTK 31A' - 90330	1
+Imtechella halotolerans K1 - 946077	2
+uncultured pavlovophyte - 1291727	1
+uncultured Methanoculleus sp. - 183762	2
+uncultured marine group II/III euryarchaeote KM3_53_G07 - 1456458	1
+Ponticaulis koreensis DSM 19734 - 551789	2
+uncultured bacterium KM3-25-B4 - 526675	1
+Microbacterium xylanilyticum JCM 13591 - 1302725	1
+Psychrobacter sp. B-3151 - 357669	10
+Scolecobasidium phaeophorum - 1662338	1
+Parcubacteria bacterium C7867-006 - 1659200	1
+Burkholderia ubonensis - 101571	1
+Ketobacter alkanivorans - 1917421	1
+uncultured delta proteobacterium Sva0447 - 90853	1
+uncultured Cercozoa - 175275	1
+delta proteobacterium MLS_D - 1775673	1
+Thalassolituus sp. HI0120 - 1822263	1
+Sphingopyxis terrae - 33052	1
+Pseudomonas putida W15Oct28 - 1449986	3
+uncultured bacterium HF0500_16O16 - 542511	2
+Pseudomonas sp. GM24 - 1144326	1
+uncultured Tintinnida - 1572338	1
+Desulfuromonas soudanensis - 1603606	1
+uncultured Hyphomonas sp. - 225298	1
+hot springs metagenome - 433727	1
+uncultured marine euryarchaeote DH148-W1 - 123945	2
+uncultured Sphingobacteriales bacterium - 212696	1
+Halomonas salinarum - 1158993	1
+Rhodoplanes sp. enrichment culture clone ANA-RAS-62 - 871556	1
+Magnetofaba australis IT-1 - 1434232	1
+Fidelibacterota bacterium SCGC AAA003-L08 - 939844	3
+Candidatus Spechtbacteria bacterium RIFCSPHIGHO2_12_FULL_38_30 - 1802160	1
+uncultured Rhodobacterales bacterium - 293400	1
+Capnobotryella sp. MA 3612 - 447492	1
+Cytophaga sp. C23e - 932822	1
+uncultured Sediminibacter sp. - 747262	1
+Salinimonas sp. T194 - 1316005	1
+uncultured bacterium HF0200_14D13 - 542501	1
+Leptospira interrogans serovar Copenhageni str. M20 - 1249484	1
+Clostridium tetanomorphum DSM 665 - 1230342	2
+Oceanicola sp. HL-35 - 1305735	1
+Demequina rhizosphaerae - 1638985	1
+Kondoa yuccicola - 4997	1
+Solemya velum gill symbiont - 2340	1
+bacterium enrichment culture clone NCAAH 30A5 - 655417	3
+uncultured archaeon W5-61a - 1131008	1
+Nocardioides lentus - 338077	1
+Colwellia sp. TT2012 - 1720342	1
+Planctomycetes bacterium DG_58 - 1703415	1
+uncultured Porphyromonadaceae bacterium - 348578	1
+Parcubacteria group bacterium GW2011_GWA1_40_21 - 1618784	1
+Arctic bacterium NP26 - 479347	1
+Faucicola osloensis - 34062	1
+Croceibacter atlanticus HTCC2559 - 216432	4
+uncultured bacterium KM3-18-F8 - 526669	2
+uncultured marine group II euryarchaeote KM3-85-F5 - 526684	2
+Bacteroidetes bacterium GWE2_42_24 - 1797337	1
+Nonlabens sp. Hel1_33_55 - 1336802	1
+Solirubrobacterales bacterium 67-14 - 1895832	1
+Acidobacteria bacterium SCN 69-37 - 1660160	1
+Nitrincola sp. A-D6 - 1545442	2
+uncultured Roseobacter sp. - 114847	6
+Halomonas nitritophilus - 152271	1
+Aquimarina brevivitae - 323412	2
+Aurantiacibacter atlanticus - 1648404	1
+unidentified eubacterium clone SAR202 - 38176	1
+uncultured marine group II euryarchaeote HF130_40G09 - 347586	1
+Paraphotobacterium marinum - 1755811	1
+Parcubacteria group bacterium GW2011_GWA2_47_8b - 1618848	1
+uncultured crenarchaeote - 29281	2
+Edwardsiella sp. EA181011 - 1578828	1
+Marinobacter sp. AC-23 - 1879031	2
+Choreocolax polysiphoniae - 282351	1
+Nitrospina gracilis 3/211 - 1266370	1
+uncultured Nitrospirota bacterium - 170969	1
+Amoebophrya sp. RCC 1626 - 992931	1
+Ruminobacter amylophilus - 867	1
+Zunongwangia sp. - 1965325	1
+Halomonas sp. I1 - 393536	2
+Halomonas sp. - 1486246	1
+Paracoccus sp. ZJHD2-58 - 1416868	1
+uncultured Methanolobus sp. - 218300	1
+bacterium P2-20-7 - 867808	1
+Fidelibacterota bacterium JGI 0000113-D11 - 1245608	3
+Pertusaria andersoniae - 2321191	2
+Reinekea blandensis MED297 - 314283	1
+alpha proteobacterium GMD21G01 - 214790	1
+Acinetobacter sp. SWBY1 - 2079596	1
+uncultured Pseudomonas sp. - 114707	2
+Gordonia terrae - 2055	1
+Halopseudomonas pachastrellae - 254161	2
+Solimonas terrae - 1396819	1
+uncultured Candidatus Hikarchaeia archaeon - 412995	1
+Methylophaga nitratireducenticrescens - 754476	2
+Hydrogenophaga sp. T4 - 1437444	1
+Sphingoaurantiacus sp. - 1903172	1
+Altibacter sp. - 2024823	3
+Altererythrobacter sp. Root672 - 1736584	1
+Rhizobium leguminosarum - 384	1
+Flavobacterium sp. V4.MS.12 - 98543	2
+uncultured Rhodobacteraceae bacterium - 157276	1
+Ostrincola koe - 1795237	1
+Streptococcus suis - 1307	1
+uncultured Fibrobacterota bacterium - 187319	1
+uncultured bacterium KM3-69-D9 - 526681	1
+Rhynchobrunnera lolii - 1354377	1
+Agrobacterium sp. DSM 25559 - 1907666	1
+Zhouia amylolytica - 376730	1
+uncultured marine euglenozoan DH148-EKB1 - 151597	1
+Flavobacterium psychrophilum FPG3 - 1452724	1
+Amoebophrya sp. ex Prorocentrum micans - 230419	1
+Moraxella bovoculi - 386891	1
+uncultured Archaeoglobus sp. - 269247	2
+Hepatozoon sp. JRB-2011 - 1072586	1
+Roseivirga pacifica - 1267423	1
+Pseudohoeflea suaedae - 877384	1
+Sclerotinia borealis - 77105	1
+Verrucomicrobia bacterium IMCC26134 - 1637999	1
+Parastagonospora nodorum SN15 - 321614	1
+uncultured gamma proteobacterium HF4000_19M20 - 710987	1
+uncultured Flavobacteriia bacterium - 212695	4
+Salinibacterium sp. ES-1 - 1822211	1
+Pseudomonas putida - 303	4
+uncultured Pirellula sp. - 298571	1
+Microbacterium sp. Xb-4 - 362468	1
+Microbacterium sp. - 51671	1
+Sulfitobacter sp. EE-36 - 52598	1
+Parvilucifera sinerae - 525916	1
+Citromicrobium sp. JL477 - 1634516	1
+Parcubacteria group bacterium GW2011_GWF2_38_76 - 1618960	1
+uncultured Palaeococcus sp. - 1237862	1
+Christiangramia aestuarii - 1028746	1
+Chloroflexi bacterium OLB13 - 1617414	2
+Desulfovibrio sp. G11 - 631220	1
+bacterium enrichment culture clone EBa8 - 1352900	1
+Pelagerythrobacter marensis - 543877	1
+uncultured bacterium AD243-H1 - 526651	1
+Marinobacter adhaerens - 1033846	2
+uncultured marine group II euryarchaeote HF200_50D06 - 347611	1
+uncultured euryarchaeote Alv-FOS4 - 337893	1
+Vannella sp. strain ISO13/I - 325079	1
+Psychrobacter sp. Rd 27.2 - 1926479	1
+Neobulgaria premnophila - 45425	1
+uncultured delta proteobacterium DeepAnt-1F12 - 357894	1
+uncultured Pseudoalteromonas sp. - 114053	1
+Hyphomonas sp. CACIAM 19H1 - 1873716	1
+Staphylococcus epidermidis - 1282	1
+uncultured Thermococcus sp. - 186057	1
+uncultured haloarchaeon - 160804	1
+Candidatus Rubidus massiliensis - 1444712	1
+Amoebophrya sp. 'Dinophysis' - 120299	1
+Candidatus Nomurabacteria bacterium GW2011_GWE1_32_28 - 1618760	1
+mine drainage metagenome - 410659	1
+uncultured eubacterium H1.2.f - 62264	1
+Romeria sp. KLL-H-201 - 1192302	1
+Maritimibacter alkaliphilus HTCC2654 - 314271	1
+Halomonas sp. LCKW-Isolate10N - 338958	1
+Acidea extrema - 1249057	1
+Brucella intermedia 229E - 1337887	2
+Sorangium cellulosum - 56	1
+Nocardioides litoris - 1926648	1
+uncultured Phycisphaeraceae bacterium - 904980	3
+uncultured Gemmatimonadales bacterium HF0200_36I24 - 723614	1
+Nocardioides sp. JCM 18998 - 1300156	1
+uncultured bacterium KM4-1-D1 - 526686	1
+Zasmidium cellare - 395010	1
+Microglena monadina - 47904	1
+Terrimicrobium sacchariphilum - 690879	1
+Oceanicola sp. S124 - 1042378	1
+Alectoria fallacina - 1903189	1
+Telodiacria quadridentata - 356477	1
+Candidatus Saccharibacteria bacterium 47-87 - 1895828	1
+Alteromonadaceae bacterium XY-R5 - 1737567	1
+Actibacterium pelagium - 2029103	1
+eukaryote clone OLI11005 - 121264	4
+Botryllus schlosseri - 30301	1
+Bacillus sp. MT06 - 290347	1
+Peronospora belbahrii - 622444	1
+Bacteroidales bacterium CF - 1400053	1
+uncultured phototrophic eukaryote - 172788	1
+Amoebophrya sp. ex Akashiwo sanguineaum - 860588	1
+Triparma laevis - 1534972	2
+Sogatella furcifera - 113103	1
+Cyclosalpa polae - 942550	2
+Roya obtusa - 104537	1
+Bradyrhizobium japonicum - 375	1
+'Neoaliturus pulcher' phytoplasma - 1968434	1
+uncultured Thalassobacter sp. - 888082	1
+Sphingomonas sp. Leaf231 - 1736301	1
+Burkholderia sp. NFACC33-1 - 1566269	1
+uncultured Katablepharidaceae - 340052	2
+Actinomyces sp. Chiba101 - 1851395	1
+uncultured prasinophyte - 157820	3
+Micromonospora carbonacea - 47853	1
+Prymnesium sp. BO18 - 871236	1
+Rivularia sp. 5PA13 - 994825	1
+Capnocytophaga sp. oral taxon 878 - 1316596	1
+uncultured marine group II euryarchaeote HF130_28F07 - 347574	1
+uncultured cyanobacterium - 1211	5
+Ochrosphaera neapolitana - 35137	1
+Haptophyta environmental samples - 171259	1
+Gallionella sp. enrichment culture clone MWE_N34 - 572954	1
+Centropages typicus - 463189	2
+Synechococcus sp. WH 5701 - 69042	2
+Candidatus Endowatersipora rubiformis - 376748	1
+Spiribacter salinus M19-40 - 1260251	1
+Bacteroidetes bacterium GWF2_40_13 - 1797346	1
+Candidatus Peregrinibacteria bacterium GW2011_GWA2_44_7 - 1619057	1
+Mycobacterium sp. DWMJ-322B1 - 1761342	1
+Cryptosporidium parvum - 5807	1
+Peptococcaceae bacterium BRH_c8a - 1629715	1
+Hyphomonas taiwanensis - 342464	1
+Candidatus Spiroplasma holothuricola - 1963034	1
+Fibrocapsa japonica - 94617	1
+Chlamydiae bacterium RIFCSPLOWO2_12_FULL_49_12 - 1797611	1
+Thauera terpenica 58Eu - 1348657	1
+Botryococcus braunii - 38881	1
+Sphingomonas sp. IBVSS2 - 1985172	1
+Salpidae gen. nov. sp. nov. A AG-2011 - 942558	2
+uncultured Amoebophrya - 304059	2
+uncultured gamma proteobacterium KTc0924 - 120670	1
+Picea glauca - 3330	1
+Bacteroidetes bacterium GWF2_33_38 - 1797342	1
+bacterium enrichment culture clone auto8_4W - 749118	1
+Parcubacteria bacterium OLB19 - 1617425	1
+Aequorivita aquimaris - 1548749	2
+uncultured dictyochophyte - 315793	1
+Aureococcus anophagefferens - 44056	2
+Salpa thompsoni - 569448	1
+Phaeocystis antarctica - 33657	2
+Pseudoruegeria aquimaris - 393663	1
+Philine aperta - 71505	1
+uncultured Peredibacter sp. - 362445	1
+Mallomonas splendens - 52552	1
+Flavobacteriaceae bacterium DOKDO 020 - 346186	1
+Candidatus Hodgkinia cicadicola - 573658	1
+uncultured Desulfobacteraceae bacterium - 218296	1
+Alkaliflexus imshenetskii - 286730	1
+Pseudonocardia sp. EC080625-04 - 1096868	1
+Uncultured marine alveolate Group II DH145-EKD20 - 151583	1
+Achipteria coleoptrata - 229769	1
+Sediminibacter sp. Hel_I_10 - 1392490	2
+Afipia sp. Root123D2 - 1736436	1
+Craticula pseudocitrus - 2055816	1
+Eristalis dimidiata - 1352481	1
+Bathycoccus prasinos - 41875	1
+Roseovarius sp. - 1486281	1
+Chloropicon primus - 1764295	1
+Cyanidium caldarium - 2771	2
+uncultured OM43 clade bacterium - 1233500	1
+uncultured bacterium HF0500_01L02 - 542504	1
+Asparagopsis taxiformis - 260499	1
+Nannochloropsis oculata - 43925	1
+uncultured biliphyte - 1423345	2
+Clostridium pasteurianum DSM 525 _ ATCC 6013 - 1262449	2
+Candidatus Actinomarina minuta - 1389454	1
+Flavobacteriales bacterium ALC-1 - 391603	1
+Salinisphaera sp. - 1914330	1
+beta proteobacterium JGI 0001003-N18 - 1094972	1
+Martelella sp. - 1969699	1
+Valsaria neotropica - 1680671	1
+uncultured Micromonas - 343857	1
+Scytonema tolypothrichoides VB-61278 - 1233231	1
+Parastreptomyces abscessus - 329649	1
+unidentified marine eubacterium - 28248	1
+Eosphagnum rigescens - 1846180	1
+Solemya velesiana gill symbiont - 1918948	1
+Macrococcus sp. IME1552 - 1898474	1
+uncultured Legionellales bacterium - 351057	1
+uncultured marine haptophyte - 588878	1
+Candidatus Planktophila vernalis - 1884907	1
+Rivularia sp. 7PA6 - 994829	1
+Thiomicrospira sp. WB1 - 1685380	1
+Sorangium cellulosum So ce56 - 448385	1
+bacterium SM23_31 - 1703762	1
+Thalassolituus oleivorans - 187493	1
+Glaucosphaera vacuolata - 38265	1
+Methylophilales bacterium MBRSF5 - 1623448	1
+Brooksia rostrata - 942560	1
+marine sediment metagenome - 412755	1
+uncultured Oceanospirillales bacterium - 293335	1
+Rhizophagus intraradices - 4876	1
+Methylophilales bacterium BACL14 MAG-120920-bin58 - 1655631	1
+Synechococcus sp. KORDI-52 - 585425	1
