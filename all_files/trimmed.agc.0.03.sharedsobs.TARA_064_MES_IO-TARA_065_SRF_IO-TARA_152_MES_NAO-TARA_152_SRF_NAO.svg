@@ -1,0 +1,43 @@
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1500 1600 " >
+<g>
+<rect fill="white" stroke="white" x="0" y="0" width="1500" height="1600"/><text fill="black" class="seri" font-size="24" x="600" y="80" >Venn Diagram at distance 0.03</text>
+<text fill="black" class="seri"  font-size="24" x="375"  y="1000">The number of species in group TARA_064_MES_IO is 6711</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1040">The number of species in group TARA_065_SRF_IO is 6857</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1080">The number of species in group TARA_152_MES_NAO is 6519</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1120">The number of species in group TARA_152_SRF_NAO is 7140</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1160">The number of species shared between groups TARA_064_MES_IO and TARA_065_SRF_IO is 1112</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1200">The number of species shared between groups TARA_064_MES_IO and TARA_152_MES_NAO is 2037</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1240">The number of species shared between groups TARA_064_MES_IO and TARA_152_SRF_NAO is 1064</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1280">The number of species shared between groups TARA_065_SRF_IO and TARA_152_MES_NAO is 1095</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1320">The number of species shared between groups TARA_065_SRF_IO and TARA_152_SRF_NAO is 1612</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1360">The number of species shared between groups TARA_152_MES_NAO and TARA_152_SRF_NAO is 1004</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1400">The number of species shared between groups TARA_064_MES_IO, TARA_065_SRF_IO and TARA_152_MES_NAO is 795</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1440">The number of species shared between groups TARA_064_MES_IO, TARA_065_SRF_IO and TARA_152_SRF_NAO is 736</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1480">The number of species shared between groups TARA_064_MES_IO, TARA_152_MES_NAO and TARA_152_SRF_NAO is 745</text>
+<text fill="black" class="seri"  font-size="24" x="375" y="1520">The number of species shared between groups TARA_065_SRF_IO, TARA_152_MES_NAO and TARA_152_SRF_NAO is 704</text>
+<ellipse fill="red" stroke="black" opacity=".35" transform="rotate(-45 765 432) " cx="765" cy="432" rx="434" ry="224"/>
+ <ellipse fill="green" stroke="black" opacity=".35" transform="rotate(+45 765 432) " cx="765" cy="432" rx="434" ry="224"/>
+ <ellipse fill="blue" stroke="black" opacity=".35" transform="rotate(-40 945 576) " cx="945" cy="576" rx="434" ry="224"/>
+ <ellipse fill="yellow" stroke="black" opacity=".35" transform="rotate(+40 540 576) " cx="540" cy="576" rx="434" ry="224"/>
+ <text fill="black" class="seri" font-size="24" x="988" y="224">4207</text>
+<text fill="black" class="seri" font-size="24" x="983" y="176">TARA_064_MES_IO</text>
+<text fill="black" class="seri" font-size="24" x="749"  y="320">148</text>
+<text fill="black" class="seri" font-size="24" x="538"  y="224">4706</text>
+<text fill="black" class="seri" font-size="24" x="533"  y="176">TARA_065_SRF_IO</text>
+<text fill="black" class="seri" font-size="24" x="1048"  y="384">1064</text>
+<text fill="black" class="seri" font-size="24"  x="1175"   y="463">4060</text>
+<text fill="black" class="seri" font-size="24"  x="1169"   y="416">TARA_152_MES_NAO</text>
+<text fill="black" class="seri" font-size="24" x="464" y="384">739</text>
+<text fill="black" class="seri" font-size="24"  x="328"   y="463">5078</text>
+<text fill="black" class="seri" font-size="24"  x="322"   y="416">TARA_152_SRF_NAO</text>
+<text fill="black" class="seri" font-size="24" x="509" y="656">150</text>
+<text fill="black" class="seri" font-size="24" x="1011" y="656">163</text>
+<text fill="black" class="seri" font-size="24" x="749" y="864">122</text>
+<text fill="black" class="seri" font-size="24" x="584" y="480">169</text>
+<text fill="black" class="seri" font-size="24" x="853" y="720">137</text>
+<text fill="black" class="seri" font-size="24" x="651" y="720">178</text>
+<text fill="black" class="seri" font-size="24" x="944"  y="480">228</text>
+<text fill="black" class="seri" font-size="24" x="749"  y="640">567</text>
+<text fill="black"  class="seri" font-size="24" x="375" y="1560">The total richness of all the groups is 21716</text>
+</g>
+</svg>
