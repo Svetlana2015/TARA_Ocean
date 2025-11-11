@@ -1,0 +1,232 @@
+Linux version
+
+Using Boost,HDF5,GSL
+mothur v.1.48.0
+Last updated: 5/20/22
+by
+Patrick D. Schloss
+
+Department of Microbiology & Immunology
+
+University of Michigan
+http://www.mothur.org
+
+When using, please cite:
+Schloss, P.D., et al., Introducing mothur: Open-source, platform-independent, community-supported software for describing and comparing microbial communities. Appl Environ Microbiol, 2009. 75(23):7537-41.
+
+Distributed under the GNU General Public License
+
+Type 'help()' for information on the commands that are available
+
+For questions and analysis support, please visit our forum at https://forum.mothur.org
+
+Type 'quit()' to exit program
+
+[NOTE]: Setting random seed to 19760620.
+
+Interactive Mode
+
+
+
+mothur > 
+
+mothur > summary.single(shared=trimmed.agc.shared, groupmode=t, calc=sobs- shannon-chao-invsimpson)
+
+Processing group TARA_064_MES_IO
+
+ shannon is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Processing group TARA_065_SRF_IO
+
+ shannon is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Processing group TARA_152_MES_NAO
+
+ shannon is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Processing group TARA_152_SRF_NAO
+
+ shannon is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Output File Names: 
+trimmed.agc.groups.summary
+
+
+mothur > 
+
+mothur >  summary.single(shared=trimmed.agc.shared, groupmode=t, calc=sobs-shannon-chao-invsimpsonÂÂ)
+
+Processing group TARA_064_MES_IO
+
+invsimpsonÂÂ is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Processing group TARA_065_SRF_IO
+
+invsimpsonÂÂ is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Processing group TARA_152_MES_NAO
+
+invsimpsonÂÂ is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Processing group TARA_152_SRF_NAO
+
+invsimpsonÂÂ is not a valid estimator for the summary.single command and will be disregarded. Valid estimators are ace,bergerparker,boneh,bootstrap,bstick,chao,coverage,default,efron,geometric,goodscoverage,heip,invsimpson,jack,logseries,npshannon,nseqs,qstat,shannon,shannoneven,shannonrange,shen,simpson,simpsoneven,smithwilson,sobs,solow.
+0.03
+
+Output File Names: 
+trimmed.agc.groups.summary
+
+
+mothur > 
+
+mothur > summary.single(shared=trimmed.agc.shared, groupmode=t, calc=sobs-shannon-chao-invsimpson)
+
+Processing group TARA_064_MES_IO
+
+0.03
+
+Processing group TARA_065_SRF_IO
+
+0.03
+
+Processing group TARA_152_MES_NAO
+
+0.03
+
+Processing group TARA_152_SRF_NAO
+
+0.03
+
+Output File Names: 
+trimmed.agc.groups.summary
+
+
+mothur > 
+
+mothur > rarefaction.single(shared=trimmed.agc.sharedÂ)
+Unable to open trimmed.agc.sharedÂ. Trying mothur's executable directory trimmed.agc.sharedÂ.
+Unable to open trimmed.agc.sharedÂ.
+Unable to open trimmed.agc.sharedÂ
+Using trimmed.agc.shared as input file for the shared parameter.
+
+Using 12 processors.
+[ERROR]: did not complete rarefaction.single.
+
+mothur > 
+
+mothur > rarefaction.single(shared=trimmed.agc.shared)
+
+Using 12 processors.
+
+Processing group TARA_064_MES_IO
+
+0.03
+
+Processing group TARA_065_SRF_IO
+
+0.03
+
+Processing group TARA_152_MES_NAO
+
+0.03
+
+Processing group TARA_152_SRF_NAO
+
+0.03
+
+It took 1 secs to run rarefaction.single.
+
+Output File Names: 
+trimmed.agc.groups.rarefaction
+
+
+mothur > 
+
+mothur > summary.shared(shared=trimmed.agc.shared, calc=sharedsobs-sorclassÃ-jabundÂ)
+
+Using 12 processors.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+0.03 
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+sorclassÃ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+jabundÂ is not a valid estimator for the summary.shared command and will be disregarded. Valid estimators are anderberg,braycurtis,canberra,default,gower,hamming,hellinger,jabund,jclass,jest,jsd,kstest,kulczynski,kulczynskicody,lennon,manhattan,memchi2,memchord,memeuclidean,mempearson,morisitahorn,ochiai,odum,rjsd,sharedace,sharedchao,sharednseqs,sharedsobs,soergel,sorabund,sorclass,sorest,spearman,speciesprofile,structchi2,structchord,structeuclidean,structkulczynski,structpearson,thetan,thetayc,whittaker.
+
+Output File Names:
+trimmed.agc.summary
+
+
+mothur > 
+
+mothur > summary.shared(shared=trimmed.agc.shared, calc=sharedsobs-sorclass-jabund)
+
+Using 12 processors.
+0.03 
+
+Output File Names:
+trimmed.agc.summary
+
+
+mothur > 
+
+mothur > venn(shared=trimmed.agc.shared)
+0.03
+
+Output File Names: 
+trimmed.agc.0.03.sharedsobs.TARA_064_MES_IO-TARA_065_SRF_IO-TARA_152_MES_NAO-TARA_152_SRF_NAO.svg
+trimmed.agc.0.03.sharedsobs.TARA_064_MES_IO-TARA_065_SRF_IO-TARA_152_MES_NAO-TARA_152_SRF_NAO.sharedotus
+
+
+mothur > 
+
+mothur > tree.shared(shared=trimmed.agc.shared, calc=jabund)
+
+Using 12 processors.
+0.03 
+
+Output File Names: 
+trimmed.agc.jabund.0.03.tre
+
+
+mothur > 
+
+mothur > quit
+Logfile : mothur.1759836850.logfile
+
+
+
+************************************************************
+************************************************************
+************************************************************
+Detected 1 [ERROR] messages, please review.
+************************************************************
+************************************************************
+************************************************************
