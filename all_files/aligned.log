@@ -1,0 +1,36 @@
+ Command:
+    sortmerna --ref sortmerna_ssu_db.fasta --reads reads.fastq --workdir sortmerna_out --aligned ./aligned --fastx -e 0.001 
+
+ Process pid = 
+
+ Parameters summary: 
+    Reference file: sortmerna_ssu_db.fasta
+        Seed length = 18
+        Pass 1 = 18, Pass 2 = 9, Pass 3 = 3
+        Gumbel lambda = 0.609785
+        Gumbel K = 0.334542
+        Minimal SW score based on E-value = 64
+    Number of seeds = 2
+    Edges = 4
+    SW match = 2
+    SW mismatch = -3
+    SW gap open penalty = 5
+    SW gap extend penalty = 2
+    SW ambiguous nucleotide = -3
+    SQ tags are not output
+    Number of alignment processing threads = 2
+    Reads file: reads.fastq
+    Total reads = 100000
+
+ Results:
+    Total reads passing E-value threshold = 98093 (98.09)
+    Total reads failing E-value threshold = 1907 (1.91)
+    Minimum read length = 32
+    Maximum read length = 101
+    Mean read length    = 96
+
+ Coverage by database:
+    sortmerna_ssu_db.fasta		98.09
+
+ Tue Sep 23 15:26:50 2025
+
